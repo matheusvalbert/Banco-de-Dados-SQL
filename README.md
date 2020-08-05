@@ -9,6 +9,6 @@ impedindo que alunos que não se encaixem nos pré-requisitos não possam ser in
 ```
 # Começando a utilizá-lo
 ```
-Este projeto deve ser utilizado o Oracle SQL.
+Este projeto foi utilizado o Oracle SQL.
 Após o download é apenas necessário realizar a inserção da tabela e suas funções e está pronto para a utilização.
 ```
