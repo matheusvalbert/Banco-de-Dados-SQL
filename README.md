@@ -1,5 +1,3 @@
-# Banco-de-Dados-SQL
-
 # Introdução
 ```
 Este projeto foi desenvolvido no quinto semestre na disciplina de Banco de Dados.
